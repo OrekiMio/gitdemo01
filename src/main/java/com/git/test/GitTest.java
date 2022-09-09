@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master-fix");
         System.out.println("hot-fix");
         System.out.println("sshpush");
+        System.out.println("sshpull");
     }
 }
